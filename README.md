@@ -1,36 +1,107 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# 🌟 My Portfolio Website
 
-First, run the development server:
+Welcome to **My Portfolio Website**—a modern, responsive, and sleek personal portfolio built with **Next.js** and **Tailwind CSS**. This project serves as a centralized hub to showcase my professional skills, technical projects, and experience.
+
+🔗 **Live Demo:** [Anousha's Portfolio](https://anousha-s-portfolio.vercel.app/)
+
+---
+
+## ✨ Features
+
+* **Hero Section:** High-impact professional headline and introduction.
+* **About Me:** Detailed bio and professional background.
+* **Tech Stack:** Visual showcase of technical skills and tools.
+* **Project Gallery:** Interactive cards featuring live demos and source code links.
+* **Resume Integration:** Direct link for CV/Resume downloads.
+* **Contact System:** Fully functional contact form and social media integration.
+* **Responsive Design:** Optimized for mobile, tablet, and desktop viewing.
+
+---
+
+
+## 📥 Getting Started
+
+### Prerequisites
+
+Make sure you have **Node.js** and **npm** (or **yarn**) installed:
+
+```bash
+node --version
+npm --version
+````
+
+---
+
+### Installation
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/Anousha1846/My-Portfolio-Website.git
+```
+
+2. **Navigate into the project directory**
+
+```bash
+cd My-Portfolio-Website
+```
+
+3. **Install dependencies**
+
+```bash
+npm install
+```
+
+*or*
+
+```bash
+yarn install
+```
+
+---
+
+## ⚙️ Usage
+
+Start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit `http://localhost:3000` in your browser to view the site.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Build for production:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```bash
+npm run build
+```
 
-## Learn More
+Start the production server locally:
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run start
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🚢 Deployment
 
-## Deploy on Vercel
+This project is set up to be deployed easily with **Vercel**:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Connect your GitHub repo to Vercel.
+2. Choose this repository.
+3. Deploy — Vercel will automatically handle builds.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+You can also deploy to other static hosting providers that support Next.js.
+
+---
+
+## 📬 Contact
+
+**Your Name** – *Anousha Asadullah* <br>
+Email: *[anoushaasadullah18@gmail.com](mailto:anoushaasadullah18@gmail.com)*<br>
+Portfolio: [Anousha's Portfolio](https://anousha-s-portfolio.vercel.app/) <br>
+GitHub: [Visit Github](https://github.com/Anousha1846)
+
+---
